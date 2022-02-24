@@ -1,7 +1,7 @@
 {
   "name": "personal-website",
   "version": "1.0.0",
-  "description": "Api Priv8 PakForlay",
+  "description": "Api AnjasSayang Novii",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/pakforlay/personal-website.git"
   },
-  "author": "PakForlay",
+  "author": "AnjasSayangNovi",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
